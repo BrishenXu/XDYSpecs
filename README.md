@@ -1,0 +1,2 @@
+# XDYSpecs
+CocoaPods Specs
